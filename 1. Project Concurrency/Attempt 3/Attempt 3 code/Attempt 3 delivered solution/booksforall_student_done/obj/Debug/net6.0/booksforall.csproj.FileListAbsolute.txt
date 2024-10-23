@@ -1,0 +1,56 @@
+C:\Users\bvdst\Downloads\booksforall_student_done\booksforall_student\bin\Debug\net6.0\booksforall.exe
+C:\Users\bvdst\Downloads\booksforall_student_done\booksforall_student\bin\Debug\net6.0\booksforall.deps.json
+C:\Users\bvdst\Downloads\booksforall_student_done\booksforall_student\bin\Debug\net6.0\booksforall.runtimeconfig.json
+C:\Users\bvdst\Downloads\booksforall_student_done\booksforall_student\bin\Debug\net6.0\booksforall.dll
+C:\Users\bvdst\Downloads\booksforall_student_done\booksforall_student\bin\Debug\net6.0\booksforall.pdb
+C:\Users\bvdst\Downloads\booksforall_student_done\booksforall_student\obj\Debug\net6.0\booksforall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bvdst\Downloads\booksforall_student_done\booksforall_student\obj\Debug\net6.0\booksforall.AssemblyInfoInputs.cache
+C:\Users\bvdst\Downloads\booksforall_student_done\booksforall_student\obj\Debug\net6.0\booksforall.AssemblyInfo.cs
+C:\Users\bvdst\Downloads\booksforall_student_done\booksforall_student\obj\Debug\net6.0\booksforall.csproj.CoreCompileInputs.cache
+C:\Users\bvdst\Downloads\booksforall_student_done\booksforall_student\obj\Debug\net6.0\booksforall.dll
+C:\Users\bvdst\Downloads\booksforall_student_done\booksforall_student\obj\Debug\net6.0\refint\booksforall.dll
+C:\Users\bvdst\Downloads\booksforall_student_done\booksforall_student\obj\Debug\net6.0\booksforall.pdb
+C:\Users\bvdst\Downloads\booksforall_student_done\booksforall_student\obj\Debug\net6.0\booksforall.genruntimeconfig.cache
+C:\Users\bvdst\Downloads\booksforall_student_done\booksforall_student\obj\Debug\net6.0\ref\booksforall.dll
+C:\Users\bvdst\OneDrive\School\2. Tweede jaar\1. Analyse\Analyse 6 Concurrency\booksforall_student\bin\Debug\net6.0\booksforall.exe
+C:\Users\bvdst\OneDrive\School\2. Tweede jaar\1. Analyse\Analyse 6 Concurrency\booksforall_student\bin\Debug\net6.0\booksforall.deps.json
+C:\Users\bvdst\OneDrive\School\2. Tweede jaar\1. Analyse\Analyse 6 Concurrency\booksforall_student\bin\Debug\net6.0\booksforall.runtimeconfig.json
+C:\Users\bvdst\OneDrive\School\2. Tweede jaar\1. Analyse\Analyse 6 Concurrency\booksforall_student\bin\Debug\net6.0\booksforall.dll
+C:\Users\bvdst\OneDrive\School\2. Tweede jaar\1. Analyse\Analyse 6 Concurrency\booksforall_student\bin\Debug\net6.0\booksforall.pdb
+C:\Users\bvdst\OneDrive\School\2. Tweede jaar\1. Analyse\Analyse 6 Concurrency\booksforall_student\obj\Debug\net6.0\booksforall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bvdst\OneDrive\School\2. Tweede jaar\1. Analyse\Analyse 6 Concurrency\booksforall_student\obj\Debug\net6.0\booksforall.AssemblyInfoInputs.cache
+C:\Users\bvdst\OneDrive\School\2. Tweede jaar\1. Analyse\Analyse 6 Concurrency\booksforall_student\obj\Debug\net6.0\booksforall.AssemblyInfo.cs
+C:\Users\bvdst\OneDrive\School\2. Tweede jaar\1. Analyse\Analyse 6 Concurrency\booksforall_student\obj\Debug\net6.0\booksforall.csproj.CoreCompileInputs.cache
+C:\Users\bvdst\OneDrive\School\2. Tweede jaar\1. Analyse\Analyse 6 Concurrency\booksforall_student\obj\Debug\net6.0\booksforall.dll
+C:\Users\bvdst\OneDrive\School\2. Tweede jaar\1. Analyse\Analyse 6 Concurrency\booksforall_student\obj\Debug\net6.0\refint\booksforall.dll
+C:\Users\bvdst\OneDrive\School\2. Tweede jaar\1. Analyse\Analyse 6 Concurrency\booksforall_student\obj\Debug\net6.0\booksforall.pdb
+C:\Users\bvdst\OneDrive\School\2. Tweede jaar\1. Analyse\Analyse 6 Concurrency\booksforall_student\obj\Debug\net6.0\booksforall.genruntimeconfig.cache
+C:\Users\bvdst\OneDrive\School\2. Tweede jaar\1. Analyse\Analyse 6 Concurrency\booksforall_student\obj\Debug\net6.0\ref\booksforall.dll
+C:\Users\bvdst\OneDrive\School\2. Tweede jaar\1. Analyse\Analyse 6 Concurrency\booksforall_student_done\bin\Debug\net6.0\booksforall.exe
+C:\Users\bvdst\OneDrive\School\2. Tweede jaar\1. Analyse\Analyse 6 Concurrency\booksforall_student_done\bin\Debug\net6.0\booksforall.deps.json
+C:\Users\bvdst\OneDrive\School\2. Tweede jaar\1. Analyse\Analyse 6 Concurrency\booksforall_student_done\bin\Debug\net6.0\booksforall.runtimeconfig.json
+C:\Users\bvdst\OneDrive\School\2. Tweede jaar\1. Analyse\Analyse 6 Concurrency\booksforall_student_done\bin\Debug\net6.0\booksforall.dll
+C:\Users\bvdst\OneDrive\School\2. Tweede jaar\1. Analyse\Analyse 6 Concurrency\booksforall_student_done\bin\Debug\net6.0\booksforall.pdb
+C:\Users\bvdst\OneDrive\School\2. Tweede jaar\1. Analyse\Analyse 6 Concurrency\booksforall_student_done\obj\Debug\net6.0\booksforall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bvdst\OneDrive\School\2. Tweede jaar\1. Analyse\Analyse 6 Concurrency\booksforall_student_done\obj\Debug\net6.0\booksforall.AssemblyInfoInputs.cache
+C:\Users\bvdst\OneDrive\School\2. Tweede jaar\1. Analyse\Analyse 6 Concurrency\booksforall_student_done\obj\Debug\net6.0\booksforall.AssemblyInfo.cs
+C:\Users\bvdst\OneDrive\School\2. Tweede jaar\1. Analyse\Analyse 6 Concurrency\booksforall_student_done\obj\Debug\net6.0\booksforall.csproj.CoreCompileInputs.cache
+C:\Users\bvdst\OneDrive\School\2. Tweede jaar\1. Analyse\Analyse 6 Concurrency\booksforall_student_done\obj\Debug\net6.0\booksforall.dll
+C:\Users\bvdst\OneDrive\School\2. Tweede jaar\1. Analyse\Analyse 6 Concurrency\booksforall_student_done\obj\Debug\net6.0\refint\booksforall.dll
+C:\Users\bvdst\OneDrive\School\2. Tweede jaar\1. Analyse\Analyse 6 Concurrency\booksforall_student_done\obj\Debug\net6.0\booksforall.pdb
+C:\Users\bvdst\OneDrive\School\2. Tweede jaar\1. Analyse\Analyse 6 Concurrency\booksforall_student_done\obj\Debug\net6.0\booksforall.genruntimeconfig.cache
+C:\Users\bvdst\OneDrive\School\2. Tweede jaar\1. Analyse\Analyse 6 Concurrency\booksforall_student_done\obj\Debug\net6.0\ref\booksforall.dll
+C:\Users\User\OneDrive\School\2. Tweede jaar\1. Analyse\Analyse 6 Concurrency\1. Project Concurrency\Attempt 3\Attempt 3 code\Attempt 3 delivered solution\booksforall_student_done\bin\Debug\net6.0\booksforall.exe
+C:\Users\User\OneDrive\School\2. Tweede jaar\1. Analyse\Analyse 6 Concurrency\1. Project Concurrency\Attempt 3\Attempt 3 code\Attempt 3 delivered solution\booksforall_student_done\bin\Debug\net6.0\booksforall.deps.json
+C:\Users\User\OneDrive\School\2. Tweede jaar\1. Analyse\Analyse 6 Concurrency\1. Project Concurrency\Attempt 3\Attempt 3 code\Attempt 3 delivered solution\booksforall_student_done\bin\Debug\net6.0\booksforall.runtimeconfig.json
+C:\Users\User\OneDrive\School\2. Tweede jaar\1. Analyse\Analyse 6 Concurrency\1. Project Concurrency\Attempt 3\Attempt 3 code\Attempt 3 delivered solution\booksforall_student_done\bin\Debug\net6.0\booksforall.dll
+C:\Users\User\OneDrive\School\2. Tweede jaar\1. Analyse\Analyse 6 Concurrency\1. Project Concurrency\Attempt 3\Attempt 3 code\Attempt 3 delivered solution\booksforall_student_done\bin\Debug\net6.0\booksforall.pdb
+C:\Users\User\OneDrive\School\2. Tweede jaar\1. Analyse\Analyse 6 Concurrency\1. Project Concurrency\Attempt 3\Attempt 3 code\Attempt 3 delivered solution\booksforall_student_done\obj\Debug\net6.0\booksforall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\School\2. Tweede jaar\1. Analyse\Analyse 6 Concurrency\1. Project Concurrency\Attempt 3\Attempt 3 code\Attempt 3 delivered solution\booksforall_student_done\obj\Debug\net6.0\booksforall.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\School\2. Tweede jaar\1. Analyse\Analyse 6 Concurrency\1. Project Concurrency\Attempt 3\Attempt 3 code\Attempt 3 delivered solution\booksforall_student_done\obj\Debug\net6.0\booksforall.AssemblyInfo.cs
+C:\Users\User\OneDrive\School\2. Tweede jaar\1. Analyse\Analyse 6 Concurrency\1. Project Concurrency\Attempt 3\Attempt 3 code\Attempt 3 delivered solution\booksforall_student_done\obj\Debug\net6.0\booksforall.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\School\2. Tweede jaar\1. Analyse\Analyse 6 Concurrency\1. Project Concurrency\Attempt 3\Attempt 3 code\Attempt 3 delivered solution\booksforall_student_done\obj\Debug\net6.0\booksforall.dll
+C:\Users\User\OneDrive\School\2. Tweede jaar\1. Analyse\Analyse 6 Concurrency\1. Project Concurrency\Attempt 3\Attempt 3 code\Attempt 3 delivered solution\booksforall_student_done\obj\Debug\net6.0\refint\booksforall.dll
+C:\Users\User\OneDrive\School\2. Tweede jaar\1. Analyse\Analyse 6 Concurrency\1. Project Concurrency\Attempt 3\Attempt 3 code\Attempt 3 delivered solution\booksforall_student_done\obj\Debug\net6.0\booksforall.pdb
+C:\Users\User\OneDrive\School\2. Tweede jaar\1. Analyse\Analyse 6 Concurrency\1. Project Concurrency\Attempt 3\Attempt 3 code\Attempt 3 delivered solution\booksforall_student_done\obj\Debug\net6.0\booksforall.genruntimeconfig.cache
+C:\Users\User\OneDrive\School\2. Tweede jaar\1. Analyse\Analyse 6 Concurrency\1. Project Concurrency\Attempt 3\Attempt 3 code\Attempt 3 delivered solution\booksforall_student_done\obj\Debug\net6.0\ref\booksforall.dll

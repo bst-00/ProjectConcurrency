@@ -1,0 +1,14 @@
+C:\Users\bvdst\OneDrive\School\2. Tweede jaar\1. Analyse\Analyse 6 Concurrency\Retake 2023 2024\original\readytogo\bin\Debug\net6.0\readytogo.exe
+C:\Users\bvdst\OneDrive\School\2. Tweede jaar\1. Analyse\Analyse 6 Concurrency\Retake 2023 2024\original\readytogo\bin\Debug\net6.0\readytogo.deps.json
+C:\Users\bvdst\OneDrive\School\2. Tweede jaar\1. Analyse\Analyse 6 Concurrency\Retake 2023 2024\original\readytogo\bin\Debug\net6.0\readytogo.runtimeconfig.json
+C:\Users\bvdst\OneDrive\School\2. Tweede jaar\1. Analyse\Analyse 6 Concurrency\Retake 2023 2024\original\readytogo\bin\Debug\net6.0\readytogo.dll
+C:\Users\bvdst\OneDrive\School\2. Tweede jaar\1. Analyse\Analyse 6 Concurrency\Retake 2023 2024\original\readytogo\bin\Debug\net6.0\readytogo.pdb
+C:\Users\bvdst\OneDrive\School\2. Tweede jaar\1. Analyse\Analyse 6 Concurrency\Retake 2023 2024\original\readytogo\obj\Debug\net6.0\readytogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bvdst\OneDrive\School\2. Tweede jaar\1. Analyse\Analyse 6 Concurrency\Retake 2023 2024\original\readytogo\obj\Debug\net6.0\readytogo.AssemblyInfoInputs.cache
+C:\Users\bvdst\OneDrive\School\2. Tweede jaar\1. Analyse\Analyse 6 Concurrency\Retake 2023 2024\original\readytogo\obj\Debug\net6.0\readytogo.AssemblyInfo.cs
+C:\Users\bvdst\OneDrive\School\2. Tweede jaar\1. Analyse\Analyse 6 Concurrency\Retake 2023 2024\original\readytogo\obj\Debug\net6.0\readytogo.csproj.CoreCompileInputs.cache
+C:\Users\bvdst\OneDrive\School\2. Tweede jaar\1. Analyse\Analyse 6 Concurrency\Retake 2023 2024\original\readytogo\obj\Debug\net6.0\readytogo.dll
+C:\Users\bvdst\OneDrive\School\2. Tweede jaar\1. Analyse\Analyse 6 Concurrency\Retake 2023 2024\original\readytogo\obj\Debug\net6.0\refint\readytogo.dll
+C:\Users\bvdst\OneDrive\School\2. Tweede jaar\1. Analyse\Analyse 6 Concurrency\Retake 2023 2024\original\readytogo\obj\Debug\net6.0\readytogo.pdb
+C:\Users\bvdst\OneDrive\School\2. Tweede jaar\1. Analyse\Analyse 6 Concurrency\Retake 2023 2024\original\readytogo\obj\Debug\net6.0\readytogo.genruntimeconfig.cache
+C:\Users\bvdst\OneDrive\School\2. Tweede jaar\1. Analyse\Analyse 6 Concurrency\Retake 2023 2024\original\readytogo\obj\Debug\net6.0\ref\readytogo.dll

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "5RVwDtK0Loao9355vlL41EQqj/qyokrCPl0PhNWHRdf6/If8knEyHCjavFmNaULaJk6LBlLU67h94fWOtPDqQg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bvdst\\OneDrive\\School\\2. Tweede jaar\\1. Analyse\\Analyse 6 Concurrency\\Attempt 2\\Attempt 2 code\\readytogo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bvdst\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\bvdst\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\bvdst\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\bvdst\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}
