@@ -1,0 +1,1 @@
+The lock is placed correctly, but a second lock is missing. The b.additem and the variable increment are in concurrent access with all the workers, so they need protection. The test procedure reports several errors without altering the code. The init of the threads also is very "sequential" not using the blocking nature of the thread creation to create a more concurrent setting.

@@ -1,0 +1,1 @@
+The solution includes in the critical section (inside the mutex) I/O operations, on more than one occasion. The clerk does not protect the _records, so multiple books can be shared by multiple customers at the same time (a failure of a basic requirement). The clerk suffers from the same problem as the customer, with the inclusion of I/O operation in the lock.

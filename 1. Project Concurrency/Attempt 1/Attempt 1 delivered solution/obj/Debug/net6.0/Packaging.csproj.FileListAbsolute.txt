@@ -1,0 +1,15 @@
+C:\Users\bvdst\OneDrive\School\2. Tweede jaar\1. Analyse\Analyse 6 Concurrency\retake assignment\Packaging\bin\Debug\net6.0\Packaging.exe
+C:\Users\bvdst\OneDrive\School\2. Tweede jaar\1. Analyse\Analyse 6 Concurrency\retake assignment\Packaging\bin\Debug\net6.0\Packaging.deps.json
+C:\Users\bvdst\OneDrive\School\2. Tweede jaar\1. Analyse\Analyse 6 Concurrency\retake assignment\Packaging\bin\Debug\net6.0\Packaging.runtimeconfig.json
+C:\Users\bvdst\OneDrive\School\2. Tweede jaar\1. Analyse\Analyse 6 Concurrency\retake assignment\Packaging\bin\Debug\net6.0\Packaging.dll
+C:\Users\bvdst\OneDrive\School\2. Tweede jaar\1. Analyse\Analyse 6 Concurrency\retake assignment\Packaging\bin\Debug\net6.0\Packaging.pdb
+C:\Users\bvdst\OneDrive\School\2. Tweede jaar\1. Analyse\Analyse 6 Concurrency\retake assignment\Packaging\obj\Debug\net6.0\Packaging.csproj.AssemblyReference.cache
+C:\Users\bvdst\OneDrive\School\2. Tweede jaar\1. Analyse\Analyse 6 Concurrency\retake assignment\Packaging\obj\Debug\net6.0\Packaging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bvdst\OneDrive\School\2. Tweede jaar\1. Analyse\Analyse 6 Concurrency\retake assignment\Packaging\obj\Debug\net6.0\Packaging.AssemblyInfoInputs.cache
+C:\Users\bvdst\OneDrive\School\2. Tweede jaar\1. Analyse\Analyse 6 Concurrency\retake assignment\Packaging\obj\Debug\net6.0\Packaging.AssemblyInfo.cs
+C:\Users\bvdst\OneDrive\School\2. Tweede jaar\1. Analyse\Analyse 6 Concurrency\retake assignment\Packaging\obj\Debug\net6.0\Packaging.csproj.CoreCompileInputs.cache
+C:\Users\bvdst\OneDrive\School\2. Tweede jaar\1. Analyse\Analyse 6 Concurrency\retake assignment\Packaging\obj\Debug\net6.0\Packaging.dll
+C:\Users\bvdst\OneDrive\School\2. Tweede jaar\1. Analyse\Analyse 6 Concurrency\retake assignment\Packaging\obj\Debug\net6.0\refint\Packaging.dll
+C:\Users\bvdst\OneDrive\School\2. Tweede jaar\1. Analyse\Analyse 6 Concurrency\retake assignment\Packaging\obj\Debug\net6.0\Packaging.pdb
+C:\Users\bvdst\OneDrive\School\2. Tweede jaar\1. Analyse\Analyse 6 Concurrency\retake assignment\Packaging\obj\Debug\net6.0\Packaging.genruntimeconfig.cache
+C:\Users\bvdst\OneDrive\School\2. Tweede jaar\1. Analyse\Analyse 6 Concurrency\retake assignment\Packaging\obj\Debug\net6.0\ref\Packaging.dll
