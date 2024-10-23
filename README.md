@@ -1,6 +1,6 @@
 # ProjectConcurrency
 
-tl;dr help mij deze vervelende opdracht te halen door uit te leggen en te verbeteren wat ik fout gedaan heb in `Attempt 1`, `Attempt 2` en `Attempt 3`
+tl;dr: help mij deze vervelende opdracht te halen door uit te leggen en te verbeteren wat ik fout gedaan heb in `Attempt 1`, `Attempt 2` en `Attempt 3`
 
 ## Uitleg
 Ik moet een programma schrijven waarin gebruik gemaakt wordt van concurrent programming. In de folders `Attempt 1`, `Attempt 2` en `Attempt 3` zie je de opdrachten waar ik aan gewerkt heb, met daarin:
@@ -16,6 +16,6 @@ Omdat dit het allerlaatste vak is wat ik moet doen en omdat het vak niet meer ge
 ## Hoe kun je helpen? 
 Ik heb dus uitleg over en een verbetering op de vorige opdrachten nodig. Die verbetering moet in lijn liggen met de vereisten van de opdracht en waarin de feedback van de docent meegenomen is. 
 Concreet kun je me het meest helpen door: 
-- Een pull request te maken met daarin de code + uitleg (mag in comments of een apart document) waarin mijn fouten uitgelegd en de verbeterde versie toegelicht wordt.
+- Een pull request te maken met daarin de code + uitleg (mag in comments of een apart document) voor een Attempt waarin mijn fouten uitgelegd worden en de verbeterde versie toegelicht wordt.
 
 Ik snap namelijk niet precies wat ik fout doe en enige hulp hierbij is meer dan welkom. Als er een verbeterslag gemaakt is van één van de drie eerste pogingen, stuur ik het op naar de docent om te verifiëren of we het goed begrepen hebben. 
