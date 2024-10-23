@@ -19,3 +19,5 @@ Concreet kun je me het meest helpen door:
 - Een pull request te maken met daarin de code + uitleg (mag in comments of een apart document) voor een Attempt waarin mijn fouten uitgelegd worden en de verbeterde versie toegelicht wordt.
 
 Ik snap namelijk niet precies wat ik fout doe en enige hulp hierbij is meer dan welkom. Als er een verbeterslag gemaakt is van één van de drie eerste pogingen, stuur ik het op naar de docent om te verifiëren of we het goed begrepen hebben. 
+
+Bij voorbaat dank! Misschien haal ik de opdracht dan eindelijk en kan ik m'n diploma in ontvangst nemen. 
