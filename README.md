@@ -17,6 +17,8 @@ Omdat dit het allerlaatste vak is wat ik moet doen en omdat het vak niet meer ge
 Ik heb dus uitleg en een verbetering op de vorige opdrachten nodig. Die verbetering moet in lijn liggen met de vereisten van de opdracht en waarin de feedback van de docent meegenomen is. 
 Concreet kun je me het meest helpen door: 
 - Een pull request te maken met daarin de code + uitleg (mag in comments of een apart document) voor een Attempt waarin mijn fouten uitgelegd worden en de verbeterde versie toegelicht wordt.
+OF
+- Vragen te formuleren die ik aan de docent kan stellen zodat ik tot een beter inzicht kom over wat er zou moeten gebeuren om de opdracht te halen
 
 Ik snap namelijk niet precies wat ik fout doe en enige hulp hierbij is meer dan welkom. Als er een verbeterslag gemaakt is van één van de drie eerste pogingen, stuur ik het op naar de docent om te verifiëren of we het goed begrepen hebben. 
 
