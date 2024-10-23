@@ -1,6 +1,6 @@
 # ProjectConcurrency
 
-tl;dr: help mij deze vervelende opdracht te halen door uit te leggen en te corrigeren wat ik fout gedaan heb in `Attempt 1`, `Attempt 2` en `Attempt 3`
+tl;dr: help mij deze vervelende opdracht te halen door uit te leggen en te corrigeren wat ik fout gedaan heb in `Attempt 1`, `Attempt 2` of `Attempt 3`
 
 ## Uitleg
 Ik moet een programma schrijven waarin gebruik gemaakt wordt van concurrent programming. In de folders `Attempt 1`, `Attempt 2` en `Attempt 3` zie je de opdrachten waar ik aan gewerkt heb, met daarin:
