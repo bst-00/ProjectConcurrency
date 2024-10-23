@@ -14,7 +14,7 @@ Ik moet een programma schrijven waarin gebruik gemaakt wordt van concurrent prog
 Omdat dit het allerlaatste vak is wat ik moet doen en omdat het vak niet meer gegeven wordt, heb ik de uitzonderingspositie waarbij ik de vorige opdrachten opnieuw mag maken en opsturen zodat de docent ernaar kijkt en vertelt of het goed had geweest als ik het zo zou aanleveren. Dit is om de kans te maximaliseren dat ik het eerstvolgende keer wèl haal. Daarom heb ik deze repository gemaakt; om de vorige opdrachten als speelveld te gebruiken en te doorgronden wat ik fout heb gedaan zodat ik het een keer wel haal. En daar kan ik jouw hulp bij gebruiken!
 
 ## Hoe kun je helpen? 
-Ik heb dus uitleg over en een verbetering op de vorige opdrachten nodig. Die verbetering moet in lijn liggen met de vereisten van de opdracht en waarin de feedback van de docent meegenomen is. 
+Ik heb dus uitleg en een verbetering op de vorige opdrachten nodig. Die verbetering moet in lijn liggen met de vereisten van de opdracht en waarin de feedback van de docent meegenomen is. 
 Concreet kun je me het meest helpen door: 
 - Een pull request te maken met daarin de code + uitleg (mag in comments of een apart document) voor een Attempt waarin mijn fouten uitgelegd worden en de verbeterde versie toegelicht wordt.
 
