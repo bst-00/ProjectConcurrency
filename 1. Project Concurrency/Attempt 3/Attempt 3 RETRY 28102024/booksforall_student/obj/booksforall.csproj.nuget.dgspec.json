@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Programming\\Repositories\\ProjectConcurrency\\1. Project Concurrency\\Attempt 3\\Attempt 3 delivered solution\\booksforall_student_done\\booksforall.csproj": {}
+    "C:\\Programming\\Repositories\\ProjectConcurrency\\1. Project Concurrency\\Attempt 3\\Attempt 3 RETRY 28102024\\booksforall_student\\booksforall.csproj": {}
   },
   "projects": {
-    "C:\\Programming\\Repositories\\ProjectConcurrency\\1. Project Concurrency\\Attempt 3\\Attempt 3 delivered solution\\booksforall_student_done\\booksforall.csproj": {
+    "C:\\Programming\\Repositories\\ProjectConcurrency\\1. Project Concurrency\\Attempt 3\\Attempt 3 RETRY 28102024\\booksforall_student\\booksforall.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Programming\\Repositories\\ProjectConcurrency\\1. Project Concurrency\\Attempt 3\\Attempt 3 delivered solution\\booksforall_student_done\\booksforall.csproj",
+        "projectUniqueName": "C:\\Programming\\Repositories\\ProjectConcurrency\\1. Project Concurrency\\Attempt 3\\Attempt 3 RETRY 28102024\\booksforall_student\\booksforall.csproj",
         "projectName": "booksforall",
-        "projectPath": "C:\\Programming\\Repositories\\ProjectConcurrency\\1. Project Concurrency\\Attempt 3\\Attempt 3 delivered solution\\booksforall_student_done\\booksforall.csproj",
+        "projectPath": "C:\\Programming\\Repositories\\ProjectConcurrency\\1. Project Concurrency\\Attempt 3\\Attempt 3 RETRY 28102024\\booksforall_student\\booksforall.csproj",
         "packagesPath": "C:\\Users\\bvdst\\.nuget\\packages\\",
-        "outputPath": "C:\\Programming\\Repositories\\ProjectConcurrency\\1. Project Concurrency\\Attempt 3\\Attempt 3 delivered solution\\booksforall_student_done\\obj\\",
+        "outputPath": "C:\\Programming\\Repositories\\ProjectConcurrency\\1. Project Concurrency\\Attempt 3\\Attempt 3 RETRY 28102024\\booksforall_student\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bvdst\\AppData\\Roaming\\NuGet\\NuGet.Config",

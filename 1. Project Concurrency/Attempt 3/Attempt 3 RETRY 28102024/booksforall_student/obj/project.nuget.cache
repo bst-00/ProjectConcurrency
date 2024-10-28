@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "U0QwJLfbjNU=",
+  "dgSpecHash": "9MMHRZRTR3M=",
   "success": true,
-  "projectFilePath": "C:\\Programming\\Repositories\\ProjectConcurrency\\1. Project Concurrency\\Attempt 3\\Attempt 3 delivered solution\\booksforall_student_done\\booksforall.csproj",
+  "projectFilePath": "C:\\Programming\\Repositories\\ProjectConcurrency\\1. Project Concurrency\\Attempt 3\\Attempt 3 RETRY 28102024\\booksforall_student\\booksforall.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bvdst\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.35\\microsoft.netcore.app.ref.6.0.35.nupkg.sha512",
     "C:\\Users\\bvdst\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.35\\microsoft.windowsdesktop.app.ref.6.0.35.nupkg.sha512",

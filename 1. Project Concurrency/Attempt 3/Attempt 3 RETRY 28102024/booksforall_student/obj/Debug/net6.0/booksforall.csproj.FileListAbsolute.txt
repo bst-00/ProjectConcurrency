@@ -1,0 +1,15 @@
+C:\Programming\Repositories\ProjectConcurrency\1. Project Concurrency\Attempt 3\Attempt 3 RETRY 28102024\booksforall_student\bin\Debug\net6.0\booksforall.exe
+C:\Programming\Repositories\ProjectConcurrency\1. Project Concurrency\Attempt 3\Attempt 3 RETRY 28102024\booksforall_student\bin\Debug\net6.0\booksforall.deps.json
+C:\Programming\Repositories\ProjectConcurrency\1. Project Concurrency\Attempt 3\Attempt 3 RETRY 28102024\booksforall_student\bin\Debug\net6.0\booksforall.runtimeconfig.json
+C:\Programming\Repositories\ProjectConcurrency\1. Project Concurrency\Attempt 3\Attempt 3 RETRY 28102024\booksforall_student\bin\Debug\net6.0\booksforall.dll
+C:\Programming\Repositories\ProjectConcurrency\1. Project Concurrency\Attempt 3\Attempt 3 RETRY 28102024\booksforall_student\bin\Debug\net6.0\booksforall.pdb
+C:\Programming\Repositories\ProjectConcurrency\1. Project Concurrency\Attempt 3\Attempt 3 RETRY 28102024\booksforall_student\obj\Debug\net6.0\booksforall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\Repositories\ProjectConcurrency\1. Project Concurrency\Attempt 3\Attempt 3 RETRY 28102024\booksforall_student\obj\Debug\net6.0\booksforall.AssemblyInfoInputs.cache
+C:\Programming\Repositories\ProjectConcurrency\1. Project Concurrency\Attempt 3\Attempt 3 RETRY 28102024\booksforall_student\obj\Debug\net6.0\booksforall.AssemblyInfo.cs
+C:\Programming\Repositories\ProjectConcurrency\1. Project Concurrency\Attempt 3\Attempt 3 RETRY 28102024\booksforall_student\obj\Debug\net6.0\booksforall.csproj.CoreCompileInputs.cache
+C:\Programming\Repositories\ProjectConcurrency\1. Project Concurrency\Attempt 3\Attempt 3 RETRY 28102024\booksforall_student\obj\Debug\net6.0\booksforall.sourcelink.json
+C:\Programming\Repositories\ProjectConcurrency\1. Project Concurrency\Attempt 3\Attempt 3 RETRY 28102024\booksforall_student\obj\Debug\net6.0\booksforall.dll
+C:\Programming\Repositories\ProjectConcurrency\1. Project Concurrency\Attempt 3\Attempt 3 RETRY 28102024\booksforall_student\obj\Debug\net6.0\refint\booksforall.dll
+C:\Programming\Repositories\ProjectConcurrency\1. Project Concurrency\Attempt 3\Attempt 3 RETRY 28102024\booksforall_student\obj\Debug\net6.0\booksforall.pdb
+C:\Programming\Repositories\ProjectConcurrency\1. Project Concurrency\Attempt 3\Attempt 3 RETRY 28102024\booksforall_student\obj\Debug\net6.0\booksforall.genruntimeconfig.cache
+C:\Programming\Repositories\ProjectConcurrency\1. Project Concurrency\Attempt 3\Attempt 3 RETRY 28102024\booksforall_student\obj\Debug\net6.0\ref\booksforall.dll
